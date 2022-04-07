@@ -1,4 +1,4 @@
-##8 aplicativos para aprender programação.
+8 aplicativos para aprender programação.
 [Herói da Programação](https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)
 [Solo Learn](https://www.sololearn.com/home)
 [Encode](https://play.google.com/store/apps/details?id=com.upskew.encode)

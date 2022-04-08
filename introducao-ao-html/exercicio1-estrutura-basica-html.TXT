@@ -1,0 +1,12 @@
+Criando estrutura básica de HTML 
+
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="utf-8">
+  <title> Yuri Augusto</title>
+ </head>
+ <body>
+   Yuri Augusto
+ </body>
+</html>

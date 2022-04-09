@@ -1,0 +1,40 @@
+- Adição de Links, section, header,article.
+- Adição de imagens. (<img>,<img src="img/avatar.jpg"> <img alt="foto teste">)
+- <li> (lista sem ordem)
+
+
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="utf-8"> 
+  <title> Yuri Augusto</title>
+ </head>
+ <body>
+   <header>
+     <img src="imagem-galaxia.jpg" alt="imagem de uma galaxia espiral">
+     <h1>Yuri Augusto</h1>
+    <section>
+      <h2>Posts</h2>
+   <article>
+      <header>
+        <h3>Post #1</h3>
+        <img src="estrela.jpg" alt="imagem de estrelas proximas">
+      </header>
+      <p> Textos e links serao adicionados abaixo para 
+          teste de exercício na Dio!!!
+          <a href=""https://www.linkedin.com/in/yuri-augusto-bernardes
+          -de-sousa-9b1441230/"target="_blank">linkedin</a>
+   </article>
+   </section>
+  <footer>
+    <ul>
+      <li>
+        <a href="emailficticio@gmail.com">Email Link</a>
+      </li>
+      <li>
+        <a href="www.github.com">Link Github</a>
+      </li>
+    </ul>
+</footer>
+ </body>
+</html>

@@ -1,0 +1,41 @@
+Adição de elementos Css
+
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="utf-8"> 
+  <title> Yuri Augusto</title>
+  <link ref="styleshoot" href="style.css">
+ </head>
+ <body>
+   <header>
+     <img src="imagem-galaxia.jpg" alt="imagem de uma galaxia espiral">
+     <h1 id="title">Yuri Augusto</h1>
+    <section>
+      <h2 class="subtitle">Posts</h2>
+   <article>
+      <header>
+        <h3 class="post title">Post #1</h3>
+        <img src="estrela.jpg" alt="imagem de estrelas proximas">
+      </header>
+      <p> Textos e links serao adicionados abaixo para 
+          teste de exercício na Dio!!!
+          <a href=""https://www.linkedin.com/in/yuri-augusto-bernardes
+          -de-sousa-9b1441230/"target="_blank">linkedin</a>
+   </article>
+   </section>
+  <footer></footer>
+ </body>
+</html>
+
+
+Editor CSS:
+
+#title, subtitle, post_title {
+  color: blue;
+}
+ 
+post_title {
+ font-seze: 16px;
+ font-style: italic;
+}
